@@ -40,7 +40,7 @@ Below is a sampling of my recent appearances on podcasts/vidcasts.
 
 ## [APISEC|CON MONEY: API Security in Real World Banking APIs](https://www.youtube.com/watch?v=MHozyZJKQRE)
 
-![APISec|CON 2024: API Security in Real World Banking APIs](assets/img/APISec-CON-2024.png)
+![APISEC&vert;CON 2024: API Security in Real World Banking APIs](assets/img/APISec-CON-2024.png)
 
 > My _API Security in Real World Banking APIs_ presentation at the
 > APISEC|CON MONEY conference, Sept 25 2024.
