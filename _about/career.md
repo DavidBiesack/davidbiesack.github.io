@@ -1,7 +1,6 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
+permalink: /about/career/
+Title: David Biesack: Career
 layout: home
 ---
 
@@ -9,11 +8,12 @@ I help software companies and teams realize the value of complex
 software technologies by aligning strategy, teamwork, and developer
 tools.
 
+
 After graduating Purdue University with a BS in Computer Science, I
 joined General Electric to attend their three year Software Technology
 Program at GE's Corporate R&D (CRD) center (now GE Global Research) in
 Schenectady, NY. The program consisted of corporate training in Software
-Engineering followed by three assignments of one year each working in
+Engineering followed by three year-long assignments working within
 R&D groups at CRD. I built a programming language (Omega Lisp) for GE's
 Cross-Omega Connection Machine (massively parallel computing system); I
 developed IDE software for an Ada workstation; I developed software for
@@ -24,7 +24,11 @@ time at GE CRD. Those projects instilled my strong desire for building
 developer tooling to make software <developers|development> better,
 stronger, faster.
 
-After completing the program at GE, I worked briefly at Data General in Research Triangle Park, NC, building workstation software for a DG AViiON desktop workstation.
+
+After completing the program at GE, I worked briefly at Data General in
+Research Triangle Park, NC, building workstation software for a DG
+AViiON desktop workstation.
+
 
 In 1989, I joined SAS as a software developer. There, I rewrote the
 SAS/CALC spreadsheet formula interpreter for SAS' multi-vendor
@@ -35,36 +39,41 @@ data structure libraries for SAS Control Language. When SAS adopted Java
 in 1996, I became the local Java expert and was appointed as R&D Java
 Strategist to run the Java Technology Board (JTB), helping the company
 widely adopt and succeed with the Java Platform. The JTB established
-corporate Java standards, processes, and tools. I later joined in the
+corporate Java standards, processes, and tools. I later joined the
 Advanced Computing Lab as a founding member, researching advanced high
 performance programming languages and building a high performance
-multi-dimensional data server server. I implemented an MDX parser and a
+multi-dimensional data server. I implemented an MDX parser and a
 multi-dimensional search library implementation of a Patricia TRIE to
-enable multi-dimensional search features.
+enable scalable multi-dimensional search features.
+
 
 During my tenure, I organized a peer-led technical book study program in
 SAS R&D, studying books such as _Design Patterns_, _Java Patterns_, _Java
 Puzzlers_, _The Structure and Interpretation of Computer Programs_.
 
+
 When SAS began digital transformation to a web API-based architecture, I
-moved to SAS' Enterprise Architecture team and founded the SAS API
+moved to SAS' enterprise architecture team and founded the SAS API
 Center of Excellence, which helped SAS migrate to REST APIs and a
 resource-oriented architecture. The CoE defined SAS' REST standards,
 style guide, and provided API design expertise for SAS' product teams. I
-led the CoE for 5+ years; we helped deliver over 120 APIs. I also
-created SAS' API Developer Portal.
+led the CoE for 5+ years, during which SAS delivered over 120 APIs
+while modernizing thwir web application-based products. I also
+created and developed SAS' API Developer Portal.
 
-While at SAS, I help found a grassroots effort within R&D to improve
-developer productivity. I created saspedia (built with WikiMedia
+
+Around 2010, I help found a grassroots effort within SAS R&D to improve
+developer productivity. I created saspedia (and built it with WikiMedia
 software) to house SAS' internal documentation, and was primary
 evangelist and editor for 7 years. I helped create guidelines for
 content authoring, naming, structure, categorization, linking, and
-taxonomies. At the time I left SAS in 2017, saspedia had close to 30,000
+taxonomies. Seven years later, saspedia had close to 30,000
 entries, documenting everything from products, people, and teams, to
 tools, standards, and processes. saspedia was one of the most used
 resources across R&D's 1800+ staff.
 
-In 2017, I accepted an opportunity to create and lead the API program for
+
+In 2017, I accepted an opportunity to create and lead the API programx* for
 a new startup, Apiture, which aimed to create open banking APIs in the
 US. I joined as a Principal API Architect and was soon promoted to VP,
 API Platforms, and in 2021, Apiture created the Chief API Officer role,
@@ -75,13 +84,14 @@ approach to building the Apiture platform. I created a portfolio
 developer tools to accelerate the design of Apiture's APIs
 (openapi-templates, openapi-lint, openapi-dependencies, openapi-version,
 openapi-annotations, api-doc). I managed the API First Office. I created
-and published Apiture's Developer Portal. I also established API
-University and designed and presented training programs on many aspects
+and published Apiture's Developer Portal. I also established _API
+University_ and designed and presented training programs on many aspects
 of APIs (architecture, design, HTTP and related standards,
-contract-based testing). I later morphed API University into a broader
-Apiture University to allow more teams to collaborate and share
+contract-based testing). I later morphed API University into the broader
+_Apiture University_ to allow more teams to collaborate and share
 knowledge. Apiture University provides a vehicle for people to grow
 professionally.
+
 
 I built a successful API program and was invited to speak at numerous
 conferences and podcasts about APIs over the years, gaining recognition

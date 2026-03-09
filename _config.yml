@@ -19,17 +19,22 @@
 # in the templates via {{ site.myvariable }}.
 
 title: David J. Biesack
-email: your-email@example.com
+email: DavidBiesack@gmail.com
 description: >-
-  Personal profile for David J. Biesack
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://davidbiesack.github." # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  davidbiesack
+  Provessional profile for David J. Biesack
+url: "https://davidbiesack.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  DavidBiesack
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

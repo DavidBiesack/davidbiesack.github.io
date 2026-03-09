@@ -1,12 +1,12 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
+permalink: /
 layout: home
 ---
 
 <div style='align:left'>
-<img src='images/djb.jpg' alt='personal profile picture of David Biesack'/.
+<img src=assets/img/djb.jpg' alt='personal profile picture of David Biesack'/>
 </div>
 
 I help software companies and teams realize the value of complex
@@ -18,7 +18,7 @@ growth, peer-learning, and inspiring others to excel.
 
 This site helps readers learn more about me.
 
-* View my [professional career and accomplishments](about/career/)
+* View my [professional career and accomplishments](/about/career/)
 * View my CV/Resume (PDF)
-* View my [guest appearances on podcasts/vidcasts and conference presentations](about/more)
-* [Contact me](about/contact-me/)
+* View my [guest appearances on podcasts/vidcasts and conference presentations](/about/more)
+* [Contact me](/about/contact-me/)
