@@ -1,5 +1,5 @@
 ---
-permalink: /about/career/
+permalink: /about/career
 Title: David Biesack: Career
 layout: home
 ---
