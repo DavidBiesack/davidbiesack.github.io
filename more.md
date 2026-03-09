@@ -4,8 +4,8 @@ layout: home
 title: Industry Appearances
 ---
 
-See
-[_Featured articles](https://www.linkedin.com/in/davidbiesack/details/featured/)
+Please see my
+[__Featured__ articles](https://www.linkedin.com/in/davidbiesack/details/featured/)
 and
-[_Recommendations](https://www.linkedin.com/in/davidbiesack/details/recommendations/)
+[__Recommendations__](https://www.linkedin.com/in/davidbiesack/details/recommendations/)
 on LinkedIn.

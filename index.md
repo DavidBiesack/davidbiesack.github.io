@@ -16,4 +16,4 @@ This site helps readers learn more about me.
 
 * View [my professional career and accomplishments](/career)
 * View [my appearances on podcasts/vidcasts and conference presentations](/more)
-* [Contact me](/ontact-me)
+* [Contact me](/contact-me)
