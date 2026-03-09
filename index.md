@@ -5,7 +5,7 @@ permalink: /
 layout: home
 ---
 
-![personal profile picture of David Biesack](assets/img/djb.jpg')
+![personal profile picture of David Biesack](/assets/img/djb.jpg)
 
 I help software companies and teams realize the value of complex
 software technologies by aligning strategy, teamwork, and developer
