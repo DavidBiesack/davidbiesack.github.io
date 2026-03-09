@@ -5,9 +5,7 @@ permalink: /
 layout: home
 ---
 
-<div style='align:left'>
-<img src=assets/img/djb.jpg' alt='personal profile picture of David Biesack'/>
-</div>
+![personal profile picture of David Biesack](assets/img/djb.jpg')
 
 I help software companies and teams realize the value of complex
 software technologies by aligning strategy, teamwork, and developer
