@@ -14,7 +14,6 @@ growth, peer-learning, and inspiring others to excel.
 
 This site helps readers learn more about me.
 
-* View my [professional career and accomplishments](/about/career)
-* View my CV/Resume (PDF)
-* View my [guest appearances on podcasts/vidcasts and conference presentations](/about/more)
-* [Contact me](/about/contact-me)
+* View [my professional career and accomplishments](/career)
+* View [my appearances on podcasts/vidcasts and conference presentations](/more)
+* [Contact me](/ontact-me)
