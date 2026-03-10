@@ -4,6 +4,8 @@ Title: David Biesack: Career
 layout: home
 ---
 
+## David Biesack: Career
+
 I help software companies and teams realize the value of complex
 software technologies by aligning strategy, teamwork, and developer
 tools.
@@ -73,7 +75,7 @@ tools, standards, and processes. saspedia was one of the most used
 resources across R&D's 1800+ staff.
 
 
-In 2017, I accepted an opportunity to create and lead the API programx* for
+In 2017, I accepted an opportunity to create and lead the API program for
 a new startup, Apiture, which aimed to create open banking APIs in the
 US. I joined as a Principal API Architect and was soon promoted to VP,
 API Platforms, and in 2021, Apiture created the Chief API Officer role,
