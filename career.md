@@ -93,6 +93,7 @@ knowledge. Apiture University provides a vehicle for people to grow
 professionally.
 
 
-I built a successful API program and was invited to speak at numerous
-conferences and podcasts about APIs over the years, gaining recognition
-as an API industry thought leader.
+I built a successful API program at Apiture. I have been invited to speak at numerous
+conferences and podcasts about APIs, gaining recognition
+as an API industry expert and thought leader. See [Thought Leadership](more)
+for some of my apperances.

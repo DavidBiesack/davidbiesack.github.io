@@ -75,8 +75,3 @@ communication style, please see my
 and
 [__Recommendations__](https://www.linkedin.com/in/davidbiesack/details/recommendations/)
 on LinkedIn.
-
-Note: I used to participate X (formerly Twitter) but stopped using that site in
-2022, also for ethical reasons.
-([@davidbiesack](https://x.com/davidbiesack) if your wish to view my
-prior posts).
