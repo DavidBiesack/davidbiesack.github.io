@@ -4,8 +4,6 @@ layout: home
 title: Thought Leadership
 ---
 
-## David Biesack: Thought Leadership
-
 Below is a sampling of my recent appearances on podcasts/vidcasts.
 
 ### [Naftiko Capabilities Podcast for January 20th, 2026 - Advanced JSON Schema and OpenAPI](https://www.youtube.com/watch?v=nWYlbuoqBAY)

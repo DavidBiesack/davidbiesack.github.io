@@ -1,10 +1,8 @@
 ---
 permalink: /career
-Title: David Biesack: Career
+title: David Biesack: Career
 layout: home
 ---
-
-## David Biesack: Career
 
 I help software companies and teams realize the value of complex
 software technologies by aligning strategy, teamwork, and developer
