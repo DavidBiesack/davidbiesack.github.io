@@ -53,6 +53,20 @@ Below is a sampling of my recent appearances on podcasts/vidcasts.
 > consider staffing a position, such as a Chief API Officer, to manage
 > the difficult task of creating secure, well-built APIs.
 
+
+### API Design Matters
+
+In early 2023, I began writing
+[_API Design Matters_](https://apidesignmatters.substack.com)
+where I explore API Design and Developer Experience matters large and
+small, topics around building and running API programs... that is, why
+API Design Matters.
+
+(I have since learned that [Substack has ethical issues](https://leavesubstack.com), so I have
+[stopped writing there)(https://apidesignmatters.substack.com/p/api-design-matters-is-moving).
+I have not yet found a suitable
+replacement for it, so I have not hosted it elsewhere.... yet)
+
 ### More...
 
 To discover more about me, my thought leadership, and my technical
@@ -61,3 +75,8 @@ communication style, please see my
 and
 [__Recommendations__](https://www.linkedin.com/in/davidbiesack/details/recommendations/)
 on LinkedIn.
+
+Note: I used to participate X (formerly Twitter) but stopped using that site in
+2022, also for ethical reasons.
+([@davidbiesack](https://x.com/davidbiesack) if your wish to view my
+prior posts).
