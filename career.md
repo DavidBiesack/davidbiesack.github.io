@@ -53,13 +53,14 @@ Puzzlers_, _The Structure and Interpretation of Computer Programs_.
 
 
 When SAS began digital transformation to a web API-based architecture, I
-moved to SAS' enterprise architecture team and founded the SAS API
-Center of Excellence, which helped SAS migrate to REST APIs and a
-resource-oriented architecture. The CoE defined SAS' REST standards,
-style guide, and provided API design expertise for SAS' product teams. I
-led the CoE for 5+ years, during which SAS delivered over 120 APIs
-while modernizing thwir web application-based products. I also
-created and developed SAS' API Developer Portal.
+was a founding member of the SAS Technology Office (SAS' enterprise
+architecture team) and founded the SAS API Center of Excellence, which
+helped SAS migrate to REST APIs and a resource-oriented architecture.
+The CoE defined SAS' REST standards, style guide, and provided API
+design expertise for SAS' product teams. I led the CoE for 5+ years,
+during which SAS delivered over 120 APIs while modernizing thwir web
+application-based products. I also created and developed SAS' API
+Developer Portal.
 
 
 Around 2010, I help found a grassroots effort within SAS R&D to improve
