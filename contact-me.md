@@ -16,5 +16,5 @@ accept connections from people I do not know) or on the Fediverse at
 
 Note: I used to participate on X/Twitter,
 but stopped using that site in 2022 for ethical reasons.
-(See (@davidbiesack](https://x.com/davidbiesack) if your wish to view my
+(See [@davidbiesack](https://x.com/davidbiesack) if your wish to view my
 posts before that time).
