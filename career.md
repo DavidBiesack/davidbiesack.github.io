@@ -97,3 +97,24 @@ I built a successful API program at Apiture. I have been invited to speak at num
 conferences and podcasts about APIs, gaining recognition
 as an API industry expert and thought leader. See [Thought Leadership](more)
 for some of my apperances.
+
+## Education
+
+
+<table border="0" cellspacing="0" cellpadding="0">
+
+<tr>
+<td><img alt='Rensselaer Polytechnic Institute Logo' width=48 src='assets/img/RPI.png'/></td>
+<td>Rensselaer Polytechnic Institute (RPI)</td>
+<td>Master of Science, Computer Science</td>
+<td>1985-1988</td>
+</tr>
+
+<tr>
+<td><img alt='Purdue University Logo' width=48 src='assets/img/Purdue-University-Logo.png'/></td>
+<td>Purdue Universiity</td>
+<td>Bachelor of Science, Computer Science</td>
+<td>1981-1985</td>
+</tr>
+
+</table>
