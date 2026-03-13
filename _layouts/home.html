@@ -1,1 +1,20 @@
-{% include navigation.html %}
+<!doctype html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8"/>
+    <title>{{ page.title }}</title>
+    <!-- <link rel="stylesheet" href="/css/style.css"> -->
+  </head>
+
+  <body>
+  {% include navigation.html %}
+  <h2>{{ page.title }}</h2>
+    <section>
+      {{ content }}
+    </section>
+
+  {% include footer.html %}
+
+  </body>
+</html>
