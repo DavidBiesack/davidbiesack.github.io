@@ -1,6 +1,6 @@
 ---
 permalink: /career
-title: David Biesack: Career
+title: Career
 layout: home
 ---
 
@@ -63,7 +63,7 @@ application-based products. I also created and developed SAS' API
 Developer Portal.
 
 
-Around 2010, I help found a grassroots effort within SAS R&D to improve
+Around 2010, I helped found a grassroots effort within SAS R&D to improve
 developer productivity. I created saspedia (and built it with WikiMedia
 software) to house SAS' internal documentation, and was primary
 evangelist and editor for 7 years. I helped create guidelines for

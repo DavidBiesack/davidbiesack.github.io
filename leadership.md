@@ -1,10 +1,10 @@
 ---
-permalink: /more
+permalink: /leadership
 layout: home
 title: Thought Leadership
 ---
 
-Below is a sampling of my recent appearances on podcasts/vidcasts.
+Below is a sampling of my appearances at conferences or in podcasts/vidcasts/interviews.
 
 ### [Naftiko Capabilities Podcast for January 20th, 2026 - Advanced JSON Schema and OpenAPI](https://www.youtube.com/watch?v=nWYlbuoqBAY)
 
@@ -53,7 +53,6 @@ Below is a sampling of my recent appearances on podcasts/vidcasts.
 > consider staffing a position, such as a Chief API Officer, to manage
 > the difficult task of creating secure, well-built APIs.
 
-
 ### API Design Matters
 
 In early 2023, I began writing
@@ -65,7 +64,7 @@ API Design Matters.
 (I have since learned that [Substack has ethical issues](https://leavesubstack.com), so I have
 [stopped writing there)(https://apidesignmatters.substack.com/p/api-design-matters-is-moving).
 I have not yet found a suitable
-replacement for it, so I have not hosted it elsewhere.... yet)
+replacement for Substack, so I have not hosted it elsewhere.... yet)
 
 ### More...
 
