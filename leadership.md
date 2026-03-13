@@ -62,7 +62,7 @@ small, topics around building and running API programs... that is, why
 API Design Matters.
 
 (I have since learned that [Substack has ethical issues](https://leavesubstack.com), so I have
-[stopped writing there)(https://apidesignmatters.substack.com/p/api-design-matters-is-moving).
+[stopped writing there](https://apidesignmatters.substack.com/p/api-design-matters-is-moving).
 I have not yet found a suitable
 replacement for Substack, so I have not hosted it elsewhere.... yet)
 
