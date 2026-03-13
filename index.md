@@ -4,8 +4,6 @@ title: David J. Biesack
 layout: home
 ---
 
-<div style="background-image: url('assets/img/dew-drops-on-grass.jpg); background-size: cover; padding: 20px;"/>
-
 ![personal profile picture of David Biesack](assets/img/djb.jpg)
 
 I help software companies and teams realize the value of complex
