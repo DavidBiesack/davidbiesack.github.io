@@ -1,7 +1,7 @@
 ---
 permalink: /contact-me
-layout: home
 title: Contact Me
+layout: default
 ---
 
 Thank you for your interest. Please

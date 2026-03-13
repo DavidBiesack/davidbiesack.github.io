@@ -35,6 +35,18 @@ defaults:
     values:
       image: true
 
+pages:
+  - title: "David J. Biesack"
+    url: "/"
+  - title: "Career"
+    url: "/career"
+  - title: "Leadership"
+    url: "/leadership"
+  - title: "About Me"
+    url: "/about-me"
+  - title: "Contact Me"
+    url: "/contact-me"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

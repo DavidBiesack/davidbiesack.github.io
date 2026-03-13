@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: David J. Biesack
-layout: home
+layout: default
 ---
 
 ![personal profile picture of David Biesack](assets/img/djb.jpg)

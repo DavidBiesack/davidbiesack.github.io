@@ -1,7 +1,7 @@
 ---
 permalink: /leadership
 title: Thought Leadership
-layout: home
+layout: default
 ---
 
 Below is a sampling of my appearances at conferences or in podcasts/vidcasts/interviews.

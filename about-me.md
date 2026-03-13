@@ -1,7 +1,7 @@
 ---
 permalink: /about-me
-layout: home
 title: About Me
+layout: default
 ---
 
 Below is some additional information so that you can get to know me.

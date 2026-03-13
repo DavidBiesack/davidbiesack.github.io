@@ -1,7 +1,7 @@
 ---
 permalink: /career
 title: Career
-layout: home
+layout: default
 ---
 
 I help software companies and teams realize the value of complex
