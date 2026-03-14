@@ -35,6 +35,7 @@ defaults:
     values:
       image: true
 
+# See https://github.com/jekyll/minima/blob/v2.5.0/_includes/header.html
 header_pages:
   - "/"
   - "/career"
