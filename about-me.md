@@ -12,7 +12,7 @@ I get the most reward from intellectual curiosity and sharing knowledge. In my j
 
 ## What is your favorite book, and why?
 
-By far my favorite book is Gödel, Escher, Bach: An Eternal Golden Braid by Douglas Hofstadter. In other words, see my previous answer :-)
+By far my favorite book is _G&ouml;del, Escher, Bach: An Eternal Golden Braid_ by Douglas Hofstadter. In other words, see my previous answer :-)
 
 As an undergraduate student studying Computer Science, discovering and reading this book inspired me to be curious and to really think about the foundations and meaning of human intelligence and self-awareness, the ideas behind programming languages, self reference, and computing systems, and the joy of thinking about.... thought.
 
