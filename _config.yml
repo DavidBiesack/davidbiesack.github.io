@@ -37,11 +37,14 @@ defaults:
 
 # See https://github.com/jekyll/minima/blob/v2.5.0/_includes/header.html
 header_pages:
-  - "/"
-  - "/career"
-  - "/leadership"
-  - "/about-me"
-  - "/contact-me"
+  - title: Career
+    url: "/career"
+  - title: Thought Leadership
+    url: "/leadership"
+  - title: About Me
+    url: "/about-me"
+  - title: Contact Me
+    url: "/contact-me"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -62,3 +65,4 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - #*
