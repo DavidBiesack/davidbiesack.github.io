@@ -4,6 +4,10 @@ title: About Me
 layout: default
 ---
 
+<div style='float: right'>
+<img alt="stylized rendering of David's initials, d j b" src='assets/img/djb-initials.jpg'/>
+</div>
+
 Below is some additional information so that you can get to know me.
 
 ## What character trait makes you most proud?
