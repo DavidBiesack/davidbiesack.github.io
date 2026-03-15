@@ -8,7 +8,7 @@ Below is a sampling of my appearances at conferences or in
 podcasts/vidcasts/interviews.
 
 See also [About Me](/about-me) for what my peers have written about me.
-
+>
 ## [Naftiko Capabilities Podcast for January 20th, 2026 - Advanced JSON Schema and OpenAPI](https://www.youtube.com/watch?v=nWYlbuoqBAY)
 
 ![Naftiko Capabilities Podcast banner image](assets/img/Naftiko-capabilities-podcast-with-Kin-Lane-and-David-Biesack-JSON-Schema.png)
@@ -73,7 +73,8 @@ replacement for Substack, so I have not hosted it elsewhere.... yet)
 
 To discover more about me, my thought leadership, and my technical
 communication style, please see my
-[__Featured__ articles](https://www.linkedin.com/in/davidbiesack/details/featured/)
-and
+[__Featured__ articles](https://www.linkedin.com/in/davidbiesack/details/featured/), and
+__[About Me](/about-me)__ for what my peers have written about me
+(extracted from
 [__Recommendations__](https://www.linkedin.com/in/davidbiesack/details/recommendations/)
-on LinkedIn.
+on LinkedIn).
