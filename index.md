@@ -15,7 +15,7 @@ growth, peer-learning, and inspiring others to excel.
 
 This site helps readers learn more about me.
 
-* View [my professional career and accomplishments](career)
-* View [my thought leadership, as seen in podcasts, vidcasts, and conference presentations](leadership)
-* [A bit more about me (personally)](about-me)
+* [My professional career and accomplishments](career)
+* [My thought leadership, as seen in podcasts, vidcasts, and conference presentations](leadership)
+* [What my colleagues and peers say about me](about-me)
 * [Contact me](contact-me)

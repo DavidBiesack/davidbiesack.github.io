@@ -4,7 +4,10 @@ title: Thought Leadership
 layout: default
 ---
 
-Below is a sampling of my appearances at conferences or in podcasts/vidcasts/interviews.
+Below is a sampling of my appearances at conferences or in
+podcasts/vidcasts/interviews.
+
+See also [About Me](/about-me) for what my peers have written about me.
 
 ## [Naftiko Capabilities Podcast for January 20th, 2026 - Advanced JSON Schema and OpenAPI](https://www.youtube.com/watch?v=nWYlbuoqBAY)
 

@@ -4,118 +4,55 @@ title: About Me
 layout: default
 ---
 
-## Professional Recommendations from my colleagues and peers
+## Professional Recommendations from My Colleagues and Peers
 
 My colleagues have written the following recommendations for me.
-(See the original recommendatons from LinkedIn](https://www.linkedin.com/in/davidbiesack/details/recommendations/).
-I do not fully trust LinkedIn to maintain these recommendations,
-so I have reproduced them here.)
+
+This content comes from the original recommendatons from
+[LinkedIn](https://www.linkedin.com/in/davidbiesack/details/recommendations/).
+I do not fully trust LinkedIn to maintain these recommendations, so I
+have reproduced them here.
+
 Job titles and companies listed below are as of March, 2026.
 
-## [Matthew Cook](<https://www.linkedin.com/in/matthewcook3>]
+(See also [In my own words](#in-my-own-words) further below.)
 
-* _Software Architect at ApitureSoftware Architect at Apiture_
-* March 3, 2026, Matthew worked with David but on different teams.
+## [Daniel Haisley](https://www.linkedin.com/in/daniel-haisley)
 
-I had the pleasure of working closely with David for over 8 years, and I
-can confidently say he is one of the most talented and dedicated
-individuals I've met. His ability to break down complex domains into
-clear, logical components is exceptional, and his deep expertise in API
-design and architecture drives consistent, thorough, and user-friendly
-solutions.
+* _SVP of Product @ CSI_
+* February 9, 2026, Daniel worked with David but on different teams
 
-David is an incredibly hard-working individual and a major contributor
-to every initiative he leads. His thoughtful leadership and influence
-extend far beyond his immediate team, shaping strategy and elevating the
-quality of work across the organization. He is not only a trusted
-subject matter expert but also someone who inspires those around him to
-think bigger, deliver their best, and continuously grow.
+I had the privilege of working alongside David during my time as Chief
+Product Officer at Apiture and then as SVP of Product at CSI following
+the acquisition. David is one of those rare technologists who doesn't
+just understand APIs - he understands why they matter to the business,
+to the developer community, and to the customers who ultimately depend
+on them.
 
-What truly sets David apart is his passion for sharing knowledge. He
-actively mentors team members, leads workshops, and fosters a culture of
-learning, ensuring his expertise benefits the entire organization. His
-willingness to guide others with his clear, approachable way of
-explaining complex topics make him a natural teacher and a catalyst for
-team growth.
+As Chief API Officer, David owned Apiture's API strategy end to end, and
+his fingerprints are on every aspect of what made our platform credible
+in the market. He didn't just design APIs - he built a culture around
+API excellence, from establishing Apiture University as an internal
+training program to representing us at industry conferences and in the
+broader API community. His thought leadership through his writing,
+speaking, and contributions to organizations like Financial Data
+Exchange gave Apiture a voice well above our weight class.
 
-David is a true professional and a pleasure to work alongside. The
-combination of technical knowledge, experience, dedication, mentorship,
-and positive influence makes him an invaluable contributor, and I highly
-recommend him to any organization seeking a leader in software.
+What I appreciated most about working with David is that he brought a
+product mindset to deeply technical work. In a space like digital
+banking where integration is everything, having someone who could
+articulate API strategy in terms that resonated with product leaders,
+engineers, and clients alike was invaluable. He made everyone around him
+sharper.
 
-## [Kin Lane](https://www.linkedin.com/in/kinlane)
-
-* _Co-Founder & Chief Community Officer (CCO) for Naftiko, modernizing API integrations, while also performing as the API Evangelist, making sense of the technology, business, policies & people of APIs since 2010._
-* February 24, 2026, Kin was David's mentor
-
-I have known David for roughly a decade now. I met him when he began
-attending, engaging, and speaking at conferences on APIs I was producing
-and leading. Over this decade I have been regularly introduced to
-David's immense curiosity when it comes to the finer details of
-producing and consuming APIs. David gets APIs. He possess a deep
-understanding of OpenAPI, JSON Schema, and the specifications the
-industry uses to produce and consume APIs, but he also has a passion for
-API design and developer experience that pushes David into a class of
-API architects, designers, and artisans that drive the discipline
-forward and help negotiate the best standards we can all use to produce
-and consume APIs.
-
-David has seen and demonstrated why API design matters for some time
-now, making him an asset when it comes to API design, API strategy, API
-governance. David has both the strategic and tactical experience
-required to lead any API center of excellence, governance, or platform
-group. I regularly invite David to do webinars, podcasts, and speak at
-any events I produce because he gets the space and can deliver on
-whatever he talks, but also show up and tell a compelling story on what
-APIs matter to business operations today.
-
-If you get a chance to work with David, I highly recommend it. You will
-learn a lot along the way.
-
-# [Christopher Cox](https://www.linkedin.com/in/christopher-cox-7a71b9)
-
-* _EVP, General Manager of Digital Engagement Solutions at CSI_
-* February 24, 2026, Christopher managed David directly
-
-I have worked alongside David since we founded Apiture in 2017. David's reputation as an API design expert is well earned. He blends deep technical expertise and thought leadership with a very practical, hands-on approach to delivering high-quality API architecture.
-
-Just as importantly, David is a generous mentor who invests time in helping others grow and raising the bar across the organization. I personally have learned much from David, and I know the same is true for many at Apiture.
-
-David understands why APIs matter to modern businesses, and he has led
-Apiture's journey to becoming an "API first" company.
-
-## [Julie M. Fox](https://www.linkedin.com/in/juliempadilla)
-
-* _API Design Architect at Apiture_
-_ February 23, 2026, Julie M. reported directly to DavidFebruary 23, 2026, Julie M. reported directly to David_
-
-David is extremely knowledgeable about all facets of API design and
-development. When designing solutions, he is always thinking about not
-just solving the current problem, but also how the design will evolve
-and change in the future. He gives targeted, helpful feedback and
-listens to the ideas of others. He has been an exceptional manager and
-was always supportive of my growth. I would highly recommend him.
-
-## [Aaron Rosenbaum](https://www.linkedin.com/in/arosenb2]
-
-* _Senior API Architect_
-* February 23, 2026, Aaron reported directly to DavidFebruary 23, 2026, Aaron reported directly to David
-
-I've had the privilege of working under David's leadership in API design
-and governance, and he has made a lasting impact on both my technical
-growth and professional development. He leads with humility and
-steadiness. DJB is intentional about developing the people around him,
-not just by offering guidance, but by finding real opportunities to
-stretch, contribute, and grow. He balances technical depth with
-emotional intelligence in a way that builds trust and raises the
-standard for everyone around him. I'm grateful for his mentorship and
-would highly recommend him to any organization looking for a thoughtful,
-empowering leader.
+David is the kind of leader who elevates an entire organization. Any
+company serious about their API strategy or developer experience would
+be lucky to have him.
 
 ## [Elliott Koehl](https://www.linkedin.com/in/elliott-koehl)
 
-* _Digital Banking Product Director | Internet Enthusiast_
-* February 20, 2026, Elliott worked with David but on different teamsFebruary 20, 2026, Elliott worked with David but on different teams
+* _Digital Banking Product Director &amp; Internet Enthusiast_
+* February 20, 2026, Elliott worked with David but on different teams
 
 I had the pleasure of working with David in his capacity as Chief API
 Officer at Apiture. In this role, David led a team of API architects
@@ -167,6 +104,35 @@ integrity, and I am only sorry to see him bring those talents elsewhere.
 David is an outstanding all around individual, and I'm beyond happy to
 discuss him further should anyone inquire.
 
+## [Kin Lane](https://www.linkedin.com/in/kinlane)
+
+* _Co-Founder & Chief Community Officer (CCO) for Naftiko, modernizing API integrations, while also performing as the API Evangelist, making sense of the technology, business, policies & people of APIs since 2010._
+* February 24, 2026, Kin was David's mentor
+
+I have known David for roughly a decade now. I met him when he began
+attending, engaging, and speaking at conferences on APIs I was producing
+and leading. Over this decade I have been regularly introduced to
+David's immense curiosity when it comes to the finer details of
+producing and consuming APIs. David gets APIs. He possess a deep
+understanding of OpenAPI, JSON Schema, and the specifications the
+industry uses to produce and consume APIs, but he also has a passion for
+API design and developer experience that pushes David into a class of
+API architects, designers, and artisans that drive the discipline
+forward and help negotiate the best standards we can all use to produce
+and consume APIs.
+
+David has seen and demonstrated why API design matters for some time
+now, making him an asset when it comes to API design, API strategy, API
+governance. David has both the strategic and tactical experience
+required to lead any API center of excellence, governance, or platform
+group. I regularly invite David to do webinars, podcasts, and speak at
+any events I produce because he gets the space and can deliver on
+whatever he talks, but also show up and tell a compelling story on what
+APIs matter to business operations today.
+
+If you get a chance to work with David, I highly recommend it. You will
+learn a lot along the way.
+
 ## [Christian Rubach](https://www.linkedin.com/in/christian-rubach)
 
 * _Enterprise Software Architect / Engineering Lead / Manager_
@@ -197,39 +163,79 @@ leadership, his strategic mindset, and his commitment to building both
 great APIs and great teams. Any organization would be fortunate to have
 him at the helm of their API strategy.
 
-## [Daniel Haisley](https://www.linkedin.com/in/daniel-haisley)
+## [Matthew Cook](<https://www.linkedin.com/in/matthewcook3>)
 
-* _SVP of Product @ CSI_
-* February 9, 2026, Daniel worked with David but on different teams
+* _Software Architect at ApitureSoftware Architect at Apiture_
+* March 3, 2026, Matthew worked with David but on different teams.
 
-I had the privilege of working alongside David during my time as Chief
-Product Officer at Apiture and then as SVP of Product at CSI following
-the acquisition. David is one of those rare technologists who doesn't
-just understand APIs - he understands why they matter to the business,
-to the developer community, and to the customers who ultimately depend
-on them.
+I had the pleasure of working closely with David for over 8 years, and I
+can confidently say he is one of the most talented and dedicated
+individuals I've met. His ability to break down complex domains into
+clear, logical components is exceptional, and his deep expertise in API
+design and architecture drives consistent, thorough, and user-friendly
+solutions.
 
-As Chief API Officer, David owned Apiture's API strategy end to end, and
-his fingerprints are on every aspect of what made our platform credible
-in the market. He didn't just design APIs - he built a culture around
-API excellence, from establishing Apiture University as an internal
-training program to representing us at industry conferences and in the
-broader API community. His thought leadership through his writing,
-speaking, and contributions to organizations like Financial Data
-Exchange gave Apiture a voice well above our weight class.
+David is an incredibly hard-working individual and a major contributor
+to every initiative he leads. His thoughtful leadership and influence
+extend far beyond his immediate team, shaping strategy and elevating the
+quality of work across the organization. He is not only a trusted
+subject matter expert but also someone who inspires those around him to
+think bigger, deliver their best, and continuously grow.
 
-What I appreciated most about working with David is that he brought a
-product mindset to deeply technical work. In a space like digital
-banking where integration is everything, having someone who could
-articulate API strategy in terms that resonated with product leaders,
-engineers, and clients alike was invaluable. He made everyone around him
-sharper.
+What truly sets David apart is his passion for sharing knowledge. He
+actively mentors team members, leads workshops, and fosters a culture of
+learning, ensuring his expertise benefits the entire organization. His
+willingness to guide others with his clear, approachable way of
+explaining complex topics make him a natural teacher and a catalyst for
+team growth.
 
-David is the kind of leader who elevates an entire organization. Any
-company serious about their API strategy or developer experience would
-be lucky to have him.
+David is a true professional and a pleasure to work alongside. The
+combination of technical knowledge, experience, dedication, mentorship,
+and positive influence makes him an invaluable contributor, and I highly
+recommend him to any organization seeking a leader in software.
 
-## Ganesh Gurunathan
+## [Christopher Cox](https://www.linkedin.com/in/christopher-cox-7a71b9)
+
+* _EVP, General Manager of Digital Engagement Solutions at CSI_
+* February 24, 2026, Christopher managed David directly
+
+I have worked alongside David since we founded Apiture in 2017. David's reputation as an API design expert is well earned. He blends deep technical expertise and thought leadership with a very practical, hands-on approach to delivering high-quality API architecture.
+
+Just as importantly, David is a generous mentor who invests time in helping others grow and raising the bar across the organization. I personally have learned much from David, and I know the same is true for many at Apiture.
+
+David understands why APIs matter to modern businesses, and he has led
+Apiture's journey to becoming an "API first" company.
+
+## [Julie M. Fox](https://www.linkedin.com/in/juliempadilla)
+
+* _API Design Architect at Apiture_
+* February 23, 2026, Julie reported directly to David_
+
+David is extremely knowledgeable about all facets of API design and
+development. When designing solutions, he is always thinking about not
+just solving the current problem, but also how the design will evolve
+and change in the future. He gives targeted, helpful feedback and
+listens to the ideas of others. He has been an exceptional manager and
+was always supportive of my growth. I would highly recommend him.
+
+## [Aaron Rosenbaum](https://www.linkedin.com/in/arosenb2)
+
+* _Senior API Architect_
+* February 23, 2026, Aaron reported directly to David
+
+I've had the privilege of working under David's leadership in API design
+and governance, and he has made a lasting impact on both my technical
+growth and professional development. He leads with humility and
+steadiness. DJB is intentional about developing the people around him,
+not just by offering guidance, but by finding real opportunities to
+stretch, contribute, and grow. He balances technical depth with
+emotional intelligence in a way that builds trust and raises the
+standard for everyone around him. I'm grateful for his mentorship and
+would highly recommend him to any organization looking for a thoughtful,
+empowering leader.
+
+
+## [Ganesh Gurunathan](https://www.linkedin.com/in/ganesh-gurunathan-49897577)
 
 * _Software Architect at Perforce Software_
 * September 14, 2021, David was senior to Ganesh but didn't manage Ganesh directly
@@ -237,19 +243,15 @@ be lucky to have him.
 I had the singular privilege of working with directly David as a part of
 SAS' REST API initiative. I consider him an expert in REST API design
 and the impact REST API can have on modern day business.
-
 He single handedly formulated and documented REST API standards for SAS
 which continues to be used as a touchstone across all APIs within the
 company.
-
 A communicator par excellence, his standards' document can be considered
 as a reference template for anyone who wishes to develop, document and
 communicate standards organization-wide.
-
 As a keen executor, he understood that that REST API based design was a
 paradigm shift for SAS and he conducted a number of effective training
 sessions spanning geographies to help teams provide a jumpstart.
-
 Being on authority on REST API design, he was often consulted to assist
 teams in their product specific designs and these consultation sessions
 eased the teams' transition to REST APIs.
@@ -259,7 +261,6 @@ technological matrix, a rare trait in technological leadership.
 
 He inspires trust and respect which enables him to rally people
 enthusiastically around organizational goals.
-
 His personal charisma and technical leadership qualities drove
 participation from across multiple departments in SAS leading to the
 tremendous success of the REST API company-wide initiative.
@@ -267,15 +268,12 @@ tremendous success of the REST API company-wide initiative.
 It has been my good fortune to have worked with David as my mentor as he
 steered the development of an automation tool for verification of REST
 API standards.
-
 He not only guided me technically but also highlighted my work within
 the community and helped position the automation tool across SAS leading
 to its widespread adoption.
-
 David is a capable and compassionate mentor who is able to encourage and
 support mentees and also orient their aspirations with organizational
 goals.
-
 I found him to be very soft spoken, always polite and extremely
 approachable during our interactions.
 
@@ -295,7 +293,7 @@ with, so he's always challenging you to do better. I learned a lot from
 our time working together.
 
 
-** [Steve Hart, CISSP, CSSLP, CCSP](https://www.linkedin.com/in/srhart-cissp)
+## [Steve Hart, CISSP, CSSLP, CCSP](https://www.linkedin.com/in/srhart-cissp)
 
 * _Director, Security Engineering - AppSec, SecOps, GRC and AI Security_
 * February 1, 2021, David was senior to Steve but didn't manage Steve directly
@@ -312,6 +310,11 @@ APIs and cloud-native applications is impressive, a true asset to any
 modern organization. Additionally, he is a great teacher, with a ton of
 patience, who enjoys spreading his knowledge to support the production
 of high quality software.
+
+<br/><br/>
+<hr/>
+<hr/>
+<br/><br/>
 
 # In my own words
 
