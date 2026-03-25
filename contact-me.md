@@ -13,8 +13,9 @@ You may also connect with me on LinkedIn at
 (please mention this site and why you wish to connect; I usually do not
 accept connections from people I do not know) or on the Fediverse at
 [fosstodon.org/@DavidBiesack](https://fosstodon.org/@DavidBiesack).
+You may also request a 30 minute meeting via my [calendly page](https://calendly.com/davidbiesack/30min).
 
-Note: I used to participate on X/Twitter,
-but stopped using that site in 2022 for ethical reasons.
+Note: I used to participate on X/ɹǝʇʇᴉʍʇ,
+but stopped using that site in 2022 for ethical reasons,
 (See [@davidbiesack](https://x.com/davidbiesack) if your wish to view my
 posts before that time).

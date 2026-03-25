@@ -8,6 +8,14 @@ I help software companies and teams realize the value of complex
 software technologies by aligning strategy, teamwork, and developer
 tools.
 
+I build outstanding API programs and teams by connecting API strategy and
+execution, developer enablement, and organizational mindset to deliver
+API-driven software that solves business problems. To enable success with APIs,
+I create tools, governance, and developer experiences that foster innovation and
+growth through partnerships.
+I inspire and lead cross-team collaboration efforts, continuous peer learning
+opportunities, and professional excellence.
+
 After graduating Purdue University with a BS in Computer Science, I
 joined General Electric to attend their three year Software Technology
 Program at GE's Corporate R&D (CRD) center (now GE Global Research) in
