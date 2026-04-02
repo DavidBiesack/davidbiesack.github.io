@@ -79,7 +79,7 @@ In 2017, I accepted an opportunity to create and lead the API program for
 a new startup, Apiture, which aimed to create open banking APIs in the
 US. I joined as a Principal API Architect and was soon promoted to VP,
 API Platforms, and in 2021, Apiture created the Chief API Officer role,
-which I have held since. In creating the API program, I established a
+which I held until March, 2026 In creating the API program, I established a
 core set of API design principles, the Apiture API Style Guide, and an
 API Design Patterns catalog, and began evangelizing an API First
 approach to building the Apiture platform. I created a portfolio of
@@ -91,12 +91,14 @@ University_ and designed and presented training programs on many aspects
 of APIs (architecture, design, HTTP and related standards,
 contract-based testing). I later morphed API University into the broader
 _Apiture University_ to allow more teams to collaborate and share
-knowledge. Apiture University provides a vehicle for people to grow
-professionally.
+knowledge.
 
-I built a successful API program at Apiture. I have been invited to speak at numerous
-conferences and podcasts about APIs, gaining recognition
-as an API industry expert and thought leader. See [Thought Leadership](more)
+CSI acquired Apiture in October, 2025 and in March, 2026, CSI eliminated
+the role of _Chief API Officer_.
+
+Having built successful API programs at SAS Apiture, I have been invited to speak at numerous
+conferences and podcasts about APIs, and I have gained recognition
+as an API industry expert and thought leader. See [Thought Leadership](leadership)
 for some of my appearances.
 
 ## Education
@@ -106,14 +108,14 @@ for some of my appearances.
 <tr>
 <td><img alt='Rensselaer Polytechnic Institute Logo' width=48 src='assets/img/RPI.png'/></td>
 <td>Rensselaer Polytechnic Institute (RPI)</td>
-<td>Master of Science, Computer Science</td>
+<td>Master of Science,<br>Computer Science</td>
 <td>1985-1988</td>
 </tr>
 
 <tr>
 <td><img alt='Purdue University Logo' width=48 src='assets/img/Purdue-University-Logo.png'/></td>
 <td>Purdue University</td>
-<td>Bachelor of Science, Computer Science</td>
+<td>Bachelor of Science,<br>Computer Science</td>
 <td>1981-1985</td>
 </tr>
 
