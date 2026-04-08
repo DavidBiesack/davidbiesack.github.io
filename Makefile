@@ -1,0 +1,19 @@
+all: rebuild
+
+reset: clean install
+
+rebuild: clean build serve
+
+install:
+	bundle install
+update:
+	bundle update
+
+build:
+	bundle exec jekyll build --incremental
+serve:
+	bundle exec jekyll serve --incremental --baseurl="" --watch --port 4001
+
+clean:
+	rm -rf _site
+	rm Gemfile.lock

@@ -93,8 +93,8 @@ contract-based testing). I later morphed API University into the broader
 _Apiture University_ to allow more teams to collaborate and share
 knowledge.
 
-CSI acquired Apiture in October, 2025 and in March, 2026, CSI eliminated
-the role of _Chief API Officer_.
+After CSI acquired Apiture in October, 2025, David and CSI parted ways
+in March, 2026.
 
 Having built successful API programs at SAS Apiture, I have been invited to speak at numerous
 conferences and podcasts about APIs, and I have gained recognition

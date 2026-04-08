@@ -2,6 +2,8 @@
   url: "/career"
 - title: "Leadership"
   url: "/leadership"
+- title: "Services"
+  url: "/services"
 - title: "About Me"
   url: "/about-me"
 - title: "Contact Me"

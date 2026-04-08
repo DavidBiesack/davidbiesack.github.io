@@ -1,0 +1,43 @@
+---
+permalink: /services
+title: API Architecture, Design, and Developer Experience Services
+layout: default
+---
+
+Through his _API Design Matters_ consultancy,
+David provides strategic and tactical consulting for companies seeking to
+grow their business and create value through the deployment Application
+Programming Interfaces (APIs) and a great Developer Experience.
+
+* API First and API Product thinking - Educating and mentoring
+  stakeholders and teams to help organizations transform
+  so that they achieve the potential of their API program.
+* API Architecture - strategy for organizing different API services
+  based on client needs, and that APIs fit together into a cohesive
+  whole
+* API Design - mapping business capabilities to APIs using OpenAPI -
+  designing the "right" API at the right level of abstraction
+* API Governance - avoiding the "wild, wild west" of roague APIs, API
+  inconsistency; ensuring APIs are discoverable, designed with security,
+  consistency, composability, and ease of use in mind.
+* Developer Experiene - Ensuring clients can discover and understand how to use the
+  APIs to achieve their diverse goals and succeed with the APIs,
+  while reducing friction.
+
+David brings over 13 years experience helping companies establish and
+build robust API and DX programs by providing guidance on API
+architecture, API design, governance, and helping developers (and the
+practice of developing software) achieve better, stronger, faster
+results.
+
+See David's [Career]({{'/career' | relative_url}}) and
+[Leadership]({{'/leadership' | relative_url}}) to learn more.
+
+David helps companies understand and make their data and business
+capabilities available to internal and external parties, allowing growth
+opportunities and reducing friction and increasing scale through API
+integration.
+
+> In today's world of AI-powered agents, APIs are more important than ever.
+
+[Contact David here]({{'/contact-me' | relative_url}}).
