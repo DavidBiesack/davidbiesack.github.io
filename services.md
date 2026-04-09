@@ -17,10 +17,10 @@ Programming Interfaces (APIs) and a great Developer Experience.
   whole
 * API Design - mapping business capabilities to APIs using OpenAPI -
   designing the "right" API at the right level of abstraction
-* API Governance - avoiding the "wild, wild west" of roague APIs, API
+* API Governance - avoiding the "wild, wild west" of rogue APIs, API
   inconsistency; ensuring APIs are discoverable, designed with security,
   consistency, composability, and ease of use in mind.
-* Developer Experiene - Ensuring clients can discover and understand how to use the
+* Developer Experience - Ensuring clients can discover and understand how to use the
   APIs to achieve their diverse goals and succeed with the APIs,
   while reducing friction.
 
