@@ -19,11 +19,11 @@ integration.
 * API First and API Product thinking - Educating and mentoring
   stakeholders and teams to help organizations transform
   so that they achieve the potential of their API program.
-* API Architecture - strategy for organizing different API services
-  based on client needs, and that APIs fit together into a cohesive
-  whole
-* API Design - mapping business capabilities to APIs using OpenAPI -
-  designing the "right" API at the right level of abstraction
+* API Architecture - organizing API services
+  and strategies based on client needs;
+  creating APIs that fit together into a cohesive whole.
+* API Design - Mapping business capabilities to APIs using OpenAPI -
+  designing the "right" API at the right level of abstraction.
 * API Governance - avoiding the "wild, wild west" of rogue APIs, API
   inconsistency. Ensuring APIs are designed with security,
   consistency, composability, and ease of use in mind.
