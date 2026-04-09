@@ -20,8 +20,8 @@ Programming Interfaces (APIs) and a great Developer Experience.
 * API Governance - avoiding the "wild, wild west" of rogue APIs, API
   inconsistency; ensuring APIs are discoverable, designed with security,
   consistency, composability, and ease of use in mind.
-* Developer Experience - Ensuring clients can discover and understand how to use the
-  APIs to achieve their diverse goals and succeed with the APIs,
+* Developer Experience - Ensuring clients can discover and understand how to use
+  their APIs to achieve their diverse goals and succeed with the APIs,
   while reducing friction.
 
 David brings over 13 years experience helping companies establish and
