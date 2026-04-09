@@ -6,8 +6,15 @@ layout: default
 
 Through his _API Design Matters_ consultancy,
 David provides strategic and tactical consulting for companies seeking to
-grow their business and create value through the deployment Application
+grow their business and deliver value through the deployment of Application
 Programming Interfaces (APIs) and a great Developer Experience.
+
+David helps companies understand and make their data and business
+capabilities available to internal and external parties, allowing growth
+opportunities, and reducing friction, and increasing scale through API
+integration.
+
+## API Architecture, Design, and Developer Experience Services:
 
 * API First and API Product thinking - Educating and mentoring
   stakeholders and teams to help organizations transform
@@ -18,10 +25,10 @@ Programming Interfaces (APIs) and a great Developer Experience.
 * API Design - mapping business capabilities to APIs using OpenAPI -
   designing the "right" API at the right level of abstraction
 * API Governance - avoiding the "wild, wild west" of rogue APIs, API
-  inconsistency; ensuring APIs are discoverable, designed with security,
+  inconsistency. Ensuring APIs are designed with security,
   consistency, composability, and ease of use in mind.
 * Developer Experience - Ensuring clients can discover and understand how to use
-  their APIs to achieve their diverse goals and succeed with the APIs,
+  the organization's APIs to achieve diverse goals and succeed with the APIs,
   while reducing friction.
 
 David brings over 13 years experience helping companies establish and
@@ -32,11 +39,6 @@ results.
 
 See David's [Career]({{'/career' | relative_url}}) and
 [Leadership]({{'/leadership' | relative_url}}) to learn more.
-
-David helps companies understand and make their data and business
-capabilities available to internal and external parties, allowing growth
-opportunities and reducing friction and increasing scale through API
-integration.
 
 > In today's world of AI-powered agents, APIs are more important than ever.
 
