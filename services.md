@@ -11,7 +11,7 @@ Programming Interfaces (APIs) and a great Developer Experience.
 
 David helps companies understand and make their data and business
 capabilities available to internal and external parties, allowing growth
-opportunities, and reducing friction, and increasing scale through API
+opportunities, reducing friction, and increasing scale through API
 integration.
 
 ## API Architecture, Design, and Developer Experience Services:
