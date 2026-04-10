@@ -9,6 +9,8 @@ David provides strategic and tactical consulting for companies seeking to
 grow their business and deliver value through the deployment of Application
 Programming Interfaces (APIs) and a great Developer Experience.
 
+![API Design Matters logo]({{'/assets/img/API-Design-Matters-consultancy-API-logo.png' | relative_url}})
+
 David helps companies understand and make their data and business
 capabilities available to internal and external parties, allowing growth
 opportunities, reducing friction, and increasing scale through API

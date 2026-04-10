@@ -16,6 +16,9 @@ growth through partnerships.
 I inspire and lead cross-team collaboration efforts, continuous peer learning
 opportunities, and professional excellence.
 
+![API Industry Leadership infographic]({{'/assets/img/David-Bieasck-API-Leadership-career-infographic.png'
+| relative_url}})
+
 After graduating Purdue University with a BS in Computer Science, I
 joined General Electric to attend their three year Software Technology
 Program at GE's Corporate R&D (CRD) center (now GE Global Research) in
