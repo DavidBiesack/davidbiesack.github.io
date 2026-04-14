@@ -7,22 +7,27 @@ layout: default
 Through his _API Design Matters_ consultancy,
 David provides strategic and tactical consulting for companies seeking to
 grow their business and deliver value through the deployment of Application
-Programming Interfaces (APIs) and a great Developer Experience.
+Programming Interfaces (APIs) and a great Developer Experience,
+providing guidance on API
+architecture, API design, governance, and helping developers (and the
+practice of developing software) achieve better, stronger, faster
+results.
 
 ![API Design Matters logo]({{'/assets/img/API-Design-Matters-consultancy-API-logo.png' | relative_url}})
 
-David helps companies understand and make their data and business
-capabilities available to internal and external parties, allowing growth
-opportunities, reducing friction, and increasing scale through API
-integration.
+David helps companies make their data and business capabilities
+available to internal and external parties, allowing growth
+opportunities, reducing friction, and increasing scale, business
+agility, and growth
+through API integration.
 
-## API Architecture, Design, and Developer Experience Services:
+## API Strategy, Architecture, Design, and Developer Experience Services:
 
 * API First and API Product thinking - Educating and mentoring
   stakeholders and teams to help organizations transform
   so that they achieve the potential of their API program.
 * API Architecture - organizing API services
-  and strategies based on client needs;
+  and capabilities based on client needs;
   creating APIs that fit together into a cohesive whole.
 * API Design - Mapping business capabilities to APIs using OpenAPI -
   designing the "right" API at the right level of abstraction.
@@ -33,11 +38,9 @@ integration.
   the organization's APIs to achieve diverse goals and succeed with the APIs,
   while reducing friction.
 
-David brings over 13 years experience helping companies establish and
-build robust API and DX programs by providing guidance on API
-architecture, API design, governance, and helping developers (and the
-practice of developing software) achieve better, stronger, faster
-results.
+David brings over 35 years experience in software technology
+and over 13 years experience helping companies establish and
+build robust API and DX programs.
 
 See David's [Career]({{'/career' | relative_url}}) and
 [Leadership]({{'/leadership' | relative_url}}) to learn more.
