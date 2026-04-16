@@ -38,9 +38,10 @@ through API integration.
   the organization's APIs to achieve diverse goals and succeed with the APIs,
   while reducing friction.
 
-David brings over 35 years experience in software technology
-and over 13 years experience helping companies establish and
-build robust API and DX programs.
+David brings over 38 years experience in software technology and over 13
+years experience helping companies establish and build robust API and DX
+programs.
+David is passionate about making software &lt;development &#124; developers&gt; better,
 
 See David's [Career]({{'/career' | relative_url}}) and
 [Leadership]({{'/leadership' | relative_url}}) to learn more.
