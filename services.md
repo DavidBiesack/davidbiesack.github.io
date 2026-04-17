@@ -31,12 +31,17 @@ through API integration.
   creating APIs that fit together into a cohesive whole.
 * API Design - Mapping business capabilities to APIs using OpenAPI -
   designing the "right" API at the right level of abstraction.
+  Design completeness to enable _Agent Experience_, as AI agents
+  are quickly becoming the dominant consumer of APIs.
 * API Governance - avoiding the "wild, wild west" of rogue APIs, API
   inconsistency. Ensuring APIs are designed with security,
-  consistency, composability, and ease of use in mind.
+  consistency, composability, industry standards, and ease of use in mind.
+* Special consideration to API design in compliance-sensitive
+  and regulated industries (8+ years in US Banking).
 * Developer Experience - Ensuring clients can discover and understand how to use
   the organization's APIs to achieve diverse goals and succeed with the APIs,
   while reducing friction.
+* Develop software tools to enhance developer productivity, quality and satisfaction.
 
 David brings over 38 years experience in software technology and over 13
 years experience helping companies establish and build robust API and DX
