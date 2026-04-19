@@ -34,8 +34,9 @@ through API integration.
   Design completeness to enable _Agent Experience_, as AI agents
   are quickly becoming the dominant consumer of APIs.
 * API Governance - avoiding the "wild, wild west" of rogue APIs, API
-  inconsistency. Ensuring APIs are designed with security,
-  consistency, composability, industry standards, and ease of use in mind.
+  inconsistency, and unmanaged APIs. Ensuring APIs are designed and
+  deployed with security, consistency, composability, industry standards,
+  and ease of use in mind.
 * Special consideration to API design in compliance-sensitive
   and regulated industries (8+ years in US Banking).
 * Developer Experience - Ensuring clients can discover and understand how to use
