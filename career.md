@@ -82,7 +82,7 @@ In 2017, I accepted an opportunity to create and lead the API program for
 a new startup, Apiture, which aimed to create open banking APIs in the
 US. I joined as a Principal API Architect and was soon promoted to VP,
 API Platforms, and in 2021, Apiture created the Chief API Officer role,
-which I held until March, 2026 In creating the API program, I established a
+which I held until March, 2026. In creating the API program, I established a
 core set of API design principles, the Apiture API Style Guide, and an
 API Design Patterns catalog, and began evangelizing an API First
 approach to building the Apiture platform. I created a portfolio of
@@ -99,10 +99,10 @@ knowledge.
 After CSI acquired Apiture in October, 2025, David and CSI parted ways
 in March, 2026.
 
-Having built successful API programs at SAS Apiture, I have been invited to speak at numerous
-conferences and podcasts about APIs, and I have gained recognition
-as an API industry expert and thought leader. See [Thought Leadership](leadership)
-for some of my appearances.
+Having built successful API programs at SAS and Apiture, I have been
+invited to speak at numerous conferences and podcasts about APIs, and I
+have gained recognition as an API industry expert and thought leader.
+See [Thought Leadership](leadership) for some of my appearances.
 
 ## Education
 
