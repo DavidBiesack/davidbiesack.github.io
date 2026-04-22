@@ -26,14 +26,14 @@ through API integration.
 * API First and API Product thinking - Educating and mentoring
   stakeholders and teams to help organizations transform
   so that they achieve the potential of their API program.
-* API Architecture - organizing API services
+* API Architecture - Organizing API services
   and capabilities based on client needs;
   creating APIs that fit together into a cohesive whole.
 * API Design - Mapping business capabilities to APIs using OpenAPI -
   designing the "right" API at the right level of abstraction.
   Design completeness to enable _Agent Experience_, as AI agents
   are quickly becoming the dominant consumer of APIs.
-* API Governance - avoiding the "wild, wild west" of rogue APIs, API
+* API Governance - Avoiding the "wild, wild west" of rogue APIs, API
   inconsistency, and unmanaged APIs. Ensuring APIs are designed and
   deployed with security, consistency, composability, industry standards,
   and ease of use in mind.
@@ -42,7 +42,8 @@ through API integration.
 * Developer Experience - Ensuring clients can discover and understand how to use
   the organization's APIs to achieve diverse goals and succeed with the APIs,
   while reducing friction.
-* Develop software tools to enhance developer productivity, quality and satisfaction.
+* Develop software tools and culture to enhance developer productivity, quality and
+  satisfaction.
 
 David brings over 38 years experience in software technology and over 13
 years experience helping companies establish and build robust API and DX
