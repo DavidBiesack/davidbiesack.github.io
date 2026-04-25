@@ -56,13 +56,3 @@ See David's [Career]({{'/career' | relative_url}}) and
 > In today's world of AI-powered agents, APIs are more important than ever.
 
 [Contact David here]({{'/contact-me' | relative_url}}).
-
-== Posting on Linked In
-
-Create a Content Fridge - as you think of content that is not time
-sensitive, store it in your Content Fridge to post later
-
-React to what you read
-
-Write for 10 minutes. Write free flowing, no backspace
-Do it daily
