@@ -7,7 +7,7 @@ layout: default
 Through his _API Design Matters_ consultancy,
 David provides strategic and tactical consulting for companies seeking to
 grow their business and deliver value through the deployment of Application
-Programming Interfaces (APIs) and a great Developer Experience,
+Programming Interfaces (APIs) and a great Developer Experience (DX),
 providing guidance on API
 architecture, API design, governance, and helping developers (and the
 practice of developing software) achieve better, stronger, faster
@@ -45,7 +45,7 @@ through API integration.
 * Develop software tools and culture to enhance developer productivity, quality and
   satisfaction.
 
-David brings over 38 years experience in software technology and over 13
+David brings over four decades of experience in software technology and over 13
 years experience helping companies establish and build robust API and DX
 programs.
 David is passionate about making software &lt;development &#124; developers&gt; better,
@@ -56,3 +56,13 @@ See David's [Career]({{'/career' | relative_url}}) and
 > In today's world of AI-powered agents, APIs are more important than ever.
 
 [Contact David here]({{'/contact-me' | relative_url}}).
+
+== Posting on Linked In
+
+Create a Content Fridge - as you think of content that is not time
+sensitive, store it in your Content Fridge to post later
+
+React to what you read
+
+Write for 10 minutes. Write free flowing, no backspace
+Do it daily
