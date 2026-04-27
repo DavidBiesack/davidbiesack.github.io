@@ -8,8 +8,8 @@ layout: default
 
 My colleagues have written the following recommendations for me.
 
-This content comes from the original recommendatons from
-[LinkedIn](https://www.linkedin.com/in/davidbiesack/details/recommendations/).
+This content comes from the original
+[recommendatons from LinkedIn](https://www.linkedin.com/in/davidbiesack/details/recommendations/).
 I do not fully trust LinkedIn to maintain these recommendations, so I
 have reproduced them here.
 

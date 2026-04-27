@@ -22,12 +22,13 @@ title: David J. Biesack
 author: David J. Biesack
 description: Professional profile for David J. Biesack
 url: "https://davidbiesack.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  DavidBiesack
+github_username: DavidBiesack
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 
 defaults:
   - scope:
@@ -55,6 +56,8 @@ header_pages:
 # their entries' file path in the `include:` list.
 
 exclude:
+  - ".#*"
+  - "*~"
   - .sass-cache/
   - .jekyll-cache/
   - gemfiles/
@@ -65,3 +68,7 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
+# See https://github.com/jekyll/minima/issues/836
+sass:
+  quiet_deps: true

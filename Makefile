@@ -15,5 +15,4 @@ serve:
 	bundle exec jekyll serve --incremental --baseurl="" --watch --port 4001
 
 clean:
-	rm -rf _site
-	rm Gemfile.lock
+	rm -rf _site Gemfile.lock
