@@ -10,7 +10,7 @@ I help software companies and teams realize the value of complex
 software technologies by aligning strategy, teamwork, and developer
 tools.
 
-With my [_API Design Matters_ consultancy](/services),
+With my [_API Design Matters_&trade; consultancy](/services),
 I help companies grow robust REST API programs and teams, focusing on
 _API Architecture_, _Outstanding API Design_, _API Governance_, and _Internal/External Developer Experience_.
 
