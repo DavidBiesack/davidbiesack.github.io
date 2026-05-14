@@ -6,7 +6,7 @@ layout: default
 
 ![API Design Matters logo]({{'/assets/img/API-Design-Matters-consultancy-API-logo.png' | relative_url}})
 
-In his _API Design Matters_ consultancy,
+In his _API Design Matters_&trade; consultancy,
 David Biesack helps companies make their data and business capabilities
 available to internal and external parties, allowing growth
 opportunities, reducing friction, and increasing scale, business

@@ -56,10 +56,10 @@ See also [About Me](/about-me) for what my peers have written about me.
 > consider staffing a position, such as a Chief API Officer, to manage
 > the difficult task of creating secure, well-built APIs.
 
-## API Design Matters
+## API Design Matters&trade;
 
 In early 2023, I began writing
-[_API Design Matters_](https://apidesignmatters.org)
+[_API Design Matters_&trade;](https://apidesignmatters.org)
 where I explore API Design and Developer Experience matters large and
 small, topics around building and running API programs... that is, why
 API Design Matters. I initially published _API Design Matters_ on Substack.
