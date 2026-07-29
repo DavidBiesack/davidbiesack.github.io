@@ -88,7 +88,7 @@ and shared the below response with David via LinkedIn.
 > _Getting started &mdash; Fully public conceptual documentation covering API keys, OAuth 2.0, OpenID Connect with PKCE, access tokens, scopes, error types, pagination, filtering, and idempotent operations &mdash; all readable without logging in. Plus step-by-step guides like "Authenticate Users," "Getting a List of Accounts," and "Creating a One-Time Transfer."_
 
 (__Note__: David was the principle API architect and Chief API Officer
-behind Apiture's Digital Banking APIs and Developer Experience from 2017-2026._)
+behind Apiture's Digital Banking APIs and Developer Experience from 2017-2026.)
 
 ## More
 
