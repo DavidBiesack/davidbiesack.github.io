@@ -99,10 +99,18 @@ knowledge.
 After CSI acquired Apiture in October, 2025, David and CSI parted ways
 in March, 2026.
 
+In August 2026, David joined
+[Financial Data Exchange](http://financialdataexchange.org)
+as _Principal Technologist, Standards and Delivery_.
+There, David assists FDX members evolve the FDX Specification,
+a consenus standard for Open Banking in North America.
+
+## Leadership
+
 Having built successful API programs at SAS and Apiture, I have been
 invited to speak at numerous conferences and podcasts about APIs, and I
 have gained recognition as an API industry expert and thought leader.
-See [Thought Leadership](leadership) for some of my appearances.
+See [Leadership](leadership) for some of my appearances.
 
 ## Education
 
